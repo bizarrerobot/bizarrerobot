@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Toni Graham</h1>
-<h3 align="center">A sophmore Computer Science student interested in front-end web development, game development, and software engineering</h3>
+<h3 align="center">I'm a sophmore Computer Science student interested in front-end web development, game development, and software engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bizarrerobot&label=Profile%20views&color=0e75b6&style=flat" alt="bizarrerobot" /> </p>
 
